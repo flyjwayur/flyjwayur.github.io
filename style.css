@@ -1,0 +1,57 @@
+.navbar{
+	margin-bottom: 0px;
+}
+
+.transparent{
+	opacity: 0.5;
+}
+
+.main-title{
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  font-size: 100px;
+  color: #6495ED;
+}
+
+img{
+	max-width: 100%;
+}
+
+.full-width{
+	width:100%;
+}
+
+.full-height{
+	height:100vh;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start ;
+}
+
+.flex-container div{
+  width: 33%;
+}
+
+.row bg-color{
+	background-color: #ffffe6;
+}
+
+img-responsive .displayed{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txt-style{
+	color: #6495ED;
+	font-style: italic;
+	font-weight: bold;
+}
